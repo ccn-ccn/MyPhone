@@ -22,7 +22,7 @@ The seL4 microkernel at the core of MyPhone carries a mathematical proof of memo
 
 
 ```
-🌐 Global Compatibility  |   🧠 Voice Orchestrator
+🌐 Global Compatibility  |   🧠 Agent Orchestrator (Muse, Astra, Opus, Sonar)
 📵 Offline-First         |   ₿  Quantum-Resilient Bitcoin Custody
 🛠️ Repairable Design     |   📞 Encrypted Wi-Fi Calling & Messaging
 🆓 No Telemetry          |   🛡️ State-of-the-Art Threat Resistance
