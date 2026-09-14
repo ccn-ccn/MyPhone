@@ -176,7 +176,7 @@ Connectivity: Wi-Fi 6E (802.11ax 6GHz) · Bluetooth 5 · GPS
 
 Accessories:  Wi-Fi Direct headphones · protective case
 
-Options: Mini tablet foldable design
+Form Factor Options: Foldable Compact Tablet, Convertible Tablet PC
 ```
 <!--
 ---
